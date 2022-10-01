@@ -1,15 +1,16 @@
 #  <h1 align="center"> Hello, I am **Parthiv** !👋</h1>
-#### 🔭*Computer Science & Engineering Undergraduate'23*
-#### 📫*Passionate about Devops,Open Source,and Development*
+#### 🔭 *Computer Science & Engineering Undergraduate'23*
+#### 📫 *Passionate about Devops,Open Source,and Development*
 #### ⚡ *Zeroes and Ones are making the world a better place!*
+#### ✉️ *Email me at: parthivk2@gmail.com*
 ### <h3 align="center">*The profile is currently being built. STAY TUNED*!</h3>
 
-## ✉️Lets connect on:
+## Lets connect on 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthiv-sarma-24b4b31a4/) [![G-Mail]( 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](parthivk2@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/parthiv_sarma) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthiv-sarma-24b4b31a4/)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/parthiv_sarma) 
 
 
-<!-- ### ✉️ Lets connnect on:
+<!-- ###  Lets connnect on:
 
 <!-- 
 
