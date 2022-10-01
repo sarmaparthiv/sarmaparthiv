@@ -1,5 +1,5 @@
 
-#   Hello, I am **Parthiv** !👋
+#  <h1 align="center"> Hello, I am **Parthiv** !👋</h1>
 - CSE Undergrad'23
 - India
 ### *The profile is currently being built. STAY TUNED*!
@@ -10,6 +10,8 @@
 <img 
    src="https://github-readme-stats.vercel.app/api?username=sarmaparthiv&show_icons=true&theme=blue-green" 
 />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarmaparthiv&label=Profile%20views&color=0e75b6&style=flat" alt="sarmaparthiv" /> </p>
 
 
 
