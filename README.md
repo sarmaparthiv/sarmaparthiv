@@ -1,10 +1,34 @@
-
 #  <h1 align="center"> Hello, I am **Parthiv** !👋</h1>
-- CSE Undergrad'23
-- India
-### *The profile is currently being built. STAY TUNED*!
-### Lets connnect on:
-[Twitter](https://twitter.com/parthiv_sarma)
+#### 🔭*Computer Science & Engineering Undergraduate'23*
+#### 📫*Passionate about Devops,Open Source,and Development*
+#### ⚡ *Zeroes and Ones are making the world a better place!*
+### <h3 align="center">*The profile is currently being built. STAY TUNED*!</h3>
+
+## ✉️Lets connect on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthiv-sarma-24b4b31a4/) [![G-Mail]( 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](parthivk2@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/parthiv_sarma) 
+
+
+<!-- ### ✉️ Lets connnect on:
+
+<!-- 
+
+<!-- <p align="left">
+ 
+ <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p> --> 
+
+<br />
+
+
+<!-- ## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+ -->
 <!--##### ![](https://blog-digital.aakash.ac.in/wp-content/uploads/2019/07/CSE.jpg)-->
 
 <img 
