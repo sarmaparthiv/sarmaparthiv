@@ -1,5 +1,5 @@
-### Hello, I am Parthiv !👋
-### The profile is currently being built. STAY TUNED!
+# Hello, I am **Parthiv** !👋
+### *The profile is currently being built. STAY TUNED*!
 
 <!--
 **sarmaparthiv/sarmaparthiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
