@@ -1,7 +1,12 @@
-# Hello, I am **Parthiv** !👋
+
+#   Hello, I am **Parthiv** !👋
 ### *The profile is currently being built. STAY TUNED*!
 ### Lets connnect on:
 [Twitter](https://twitter.com/parthiv_sarma)
+<!--##### ![](https://blog-digital.aakash.ac.in/wp-content/uploads/2019/07/CSE.jpg)-->
+
+
+
 
 <!--
 **sarmaparthiv/sarmaparthiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
