@@ -32,11 +32,13 @@
  -->
 <!--##### ![](https://blog-digital.aakash.ac.in/wp-content/uploads/2019/07/CSE.jpg)-->
 
-<img 
+<!--img 
    src="https://github-readme-stats.vercel.app/api?username=sarmaparthiv&show_icons=true&theme=blue-green" 
 />
-
+-->
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarmaparthiv&label=Profile%20views&color=0e75b6&style=flat" alt="sarmaparthiv" /> </p>
+-->
 
 
 
